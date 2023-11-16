@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Tehtava 10.html</title>
+<Style>
+body {
+    background-image: url(c0162fd3-lomalle-lappiin-lappi-eeva-makinen-lapin-materiaalipankki-1920x1080.jpg);
+
+}
+.Lounaslista{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+     color: white  ;
+
+}
+.Yhteystiedot{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white  ;
+
+}
+
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white  ;
+    text-align: center;
+   
+
+}
+
+
+</Style>
+</head>
+<body>
+
+<h1>Ravintola Lapintaika</h1>
+
+<div class="Lounaslista">
+    <h2>Lounaslista</h2>
+        
+        <h3>Maanantai</h3>
+        <p>Juusto-vihanneskeittoa ja kokin sämpylä Paistettua lohta, sinappikastiketta, tilliperunoita ja kasviksia Marjakiisseliä ja hunajakermavaahtoa</p>
+        <br>
+        <h3>Tiistai</h3>
+        <p>Kana-fetajustosalaattia ja kokin sämpylä Paistettua punakampelaa, pinaattikastiketta ja perunamuusia Pannukakkua, mansikkahilloa ja kermavaahtoa</p>
+        <br>
+        <h3>Keskiviikko</h3>
+        <br>
+        <p>Tomaatti-yrttikeittoa ja kokin sämpylä Kalkkunaleikettä, BBQ-kastiketta, riisiä ja kasviksia Omenapiirakkaa ja vaniljakastiketta</p>
+        <br>
+        <h3>Torstai</h3>
+        <br>
+        <p>Rapukeittoa ja kokin sämpylä Poronkäristystä, perunamuusia, puolukkahilloa ja suolakurkkuja Hedelmäsalaattia ja kinuskikastiketta</p>
+        <br>
+        <h3>Perjantai</h3>
+        <p>Savulohisalaatti ja kokin sämpylä Naudan paahtopaistia, punaviinikastiketta, kermaperunat ja kasviksia Suklaamousse</p>
+        <br>
+
+</div>
+<div class="Yhteystiedot">
+    <br>
+    <h2>Yhteystiedot</h2>
+    <p>Ravintola Lapintaika, Ravintolakatu 2, 98765 LAPINMAA</p>
+    <p>Puh. (012) 345 6789 Sähköposti: varaukset@jokuposti.net</p>
+    <br>
+        <h2>Lounaan hinta 11.90 euroa (sisältää ruokajuoman: vesi, kotikalja, maito)</h2>
+        <br>
+        <ul>
+            <li><a class="active" href="Tehtava 10.html">Etusivu</a></li>
+            <li><a href="ravintola2.html">Palaute</a></li>
+        </ul>
+https://github.com/Flazexxx/Weblabra/blob/57862e37b7e7bf85066c271cdedaf6cef3c4be0b/ravintola2.html
+</body>
+</html>
